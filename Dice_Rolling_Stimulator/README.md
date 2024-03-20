@@ -1,7 +1,5 @@
 ![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/nduongthucanh)
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/nduongthucanh?tab=repositories)
 
 
 # Dice Rolling Stimulator
@@ -18,15 +16,12 @@ You only need Python to run this script. You can visit [here](https://www.python
 
 ## 🌟 How to run
 
-Running the script is really simple! Just open a terminal in the folder where your script is located and run the following command:
+Running the script is simple! Just open a terminal in the folder where your script is located and run the following command:
 
 ```sh
 python dice_stimulator.py
 ```
 
-## 📺 Demo
-<p align="center">
-<img src="https://github.com/nduongthucanh/python-mini-project/blob/main/IMG/ds.gif" width=70% height=70%>
 
 
 
